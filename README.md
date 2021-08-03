@@ -1,0 +1,2 @@
+# AndreaGomezAct
+Minería de Datos
