@@ -1,6 +1,6 @@
 # Mineria de Datos
-###Andrea Sarahi Gómez Avila 
-###2034174
+### Andrea Sarahi Gómez Avila 
+### 2034174
 
 ## Fase 1
 
