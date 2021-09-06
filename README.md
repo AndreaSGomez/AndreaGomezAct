@@ -11,4 +11,4 @@
 - [*Avance PIA*](https://github.com/AndreaSGomez/AndreaGomezAct/blob/main/Avance1_PIA_Equipo_08.ipynb)
 
 - [*Presentación técnicas de minería de datos*](https://github.com/AndreaSGomez/AndreaGomezAct/blob/main/Presentacion_Patrones%20secuenciales_Equipo08.pdf)
-- [*Ejemplo de patrones secuenciales*](https://github.com/AndreaSGomez/AndreaGomezAct/blob/main/Ejemplo_PatronesSecuenciales.ipynb)
+- [*Ejemplo de patrones secuenciales*](https://github.com/AndreaSGomez/AndreaGomezAct/blob/main/Ejemplo_PatronesSecuenciales_Equipo8.ipynb)
