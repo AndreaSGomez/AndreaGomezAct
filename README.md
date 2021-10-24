@@ -18,3 +18,4 @@
 - [*Avance PIA*](https://nbviewer.jupyter.org/github/JoshuneArriaga/FCFM/blob/main/AvancePIA_II_Grupo001_Equipo8.ipynb?fbclid=IwAR0DLXgbNEh4cwidkHrLQTV5KwihWeGe5fu7Fx1T94hfLhfmnBWxzQ8NHxs)
 - [*Ejercicios técnicas de minería*](https://nbviewer.org/github/JoshuneArriaga/FCFM/blob/main/Ejercicios_tecnicas_de_miner%C3%ADa_Equipo8.ipynb)
 - [*PIA Notebook*](https://nbviewer.org/github/JoshuneArriaga/FCFM/blob/main/PIA_Equipo8.ipynb)
+- [*Poster*](https://github.com/JoshuneArriaga/FCFM/blob/main/poster_equipo8.pdf?fbclid=IwAR1y09taZB6IQkmHa1ZLC2Yfpu3eS3Jw77xWSpUr5P0qX4aU6uKhUfh7gTc)
